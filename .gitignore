@@ -1,0 +1,6 @@
+node_modules
+dist
+release
+backend_dist
+build
+__pycache__
